@@ -1,26 +1,25 @@
 # Halo, Saya Dicky Joel! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dicky-joel-saputra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dickyjoelsaputra)
 
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical&include_all_commits=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=[dickyjoelsaputra]&show_icons=true&theme=radical&include_all_commits=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=[dickyjoelsaputra]&theme=radical" />
     </td>
     <td width="52%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dickyjoelsaputra]&layout=compact&theme=radical&langs_count=8" />
     </td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=[dickyjoelsaputra]&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠️ Bahasa dan Tools
 
